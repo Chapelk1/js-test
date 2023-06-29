@@ -1,0 +1,29 @@
+
+html {
+    box-sizing: border-box;
+}
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+
+
+
+.container{
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    width: 500px;
+    height: auto;
+    padding: 10px;
+    
+    margin: 0 auto;
+    background-color: teal;
+
+}
